@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1026218040492",
+    "firebase_url": "https://mysms-afcc8.firebaseio.com",
+    "project_id": "mysms-afcc8",
+    "storage_bucket": "mysms-afcc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026218040492:android:a525865e558ac13d",
+        "android_client_info": {
+          "package_name": "com.deficientleaf.smstest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026218040492-06b8k73gpllvkb9eq1l76n6usba3li54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.deficientleaf.smstest",
+            "certificate_hash": "9fbec47b26556013e8c852eb46600e5279cd4f7a"
+          }
+        },
+        {
+          "client_id": "1026218040492-p7kt6arjpi7tdglkd3h9g05699p4trit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgksWCdxHBcr1jGqHe29wrvFKLo91egN4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026218040492-p7kt6arjpi7tdglkd3h9g05699p4trit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
